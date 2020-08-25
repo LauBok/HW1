@@ -27,7 +27,7 @@ data(Auto)
 ```{r}
 
 ```
-
+Missing Data.
 
 2.  Which of the predictors are quantitative, and which are qualitative?
 ```{r}
